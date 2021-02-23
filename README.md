@@ -4,4 +4,4 @@ This is an Online Analytical Processing Project about different currency exchang
 ## Description
 
 
-![Finance Sector](https://github.com/AlfonsBC/OLAP-Project/imgs/finances.jpg)
+![Finance Sector](https://github.com/AlfonsBC/OLAP-Project/imgs/finance.jpg)
